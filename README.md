@@ -3,8 +3,12 @@
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <img align="right" alt="coding User Image" src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/chip.gif" height="180" />
 
+<br />
+
+  
 <br />
 
 hi, i'm [Dat], a beginner of front-end web developer and i'll try so hard to learn more knowledge and experience for my self, to be a full-stack developer.

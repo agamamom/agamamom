@@ -40,5 +40,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamamom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-&hide=javascript,html
+
 

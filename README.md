@@ -19,7 +19,17 @@ hi, i'm [Dat], a beginner of front-end web developer and i'll try so hard to lea
 
 - 👍 Dog, cat and Gaming 🐶 🎮
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/tran-dylan" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/nguyeen.nguyeen" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/kid.bab.boy" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+  </a>
+</p>
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>

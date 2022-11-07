@@ -39,10 +39,5 @@ hi, i'm [Dat], a beginner of front-end web developer and i'll try so hard to lea
 
 
 
-🚧 **my stats:**
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamamom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 

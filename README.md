@@ -9,11 +9,14 @@
   
 <br />
 
-hi, i'm [Dat], a beginner of front-end web developer and i'll try so hard to learn more knowledge and experience for my self, to be a full-stack developer.
+hi, i'm [Dat], 
+As a dedicated Software Engineer with a strong background in Web Development, I am committed to excellence and always strive for the best results in every project. My passion for technology drives me to stay updated on emerging trends and industry best practices.
+
+While my experience has been in web development, I am now focusing on mobile development, eager to bring my skills to this dynamic field. I believe in continuous improvement and look forward to embracing new challenges as I grow in mobile development.
 
 - 🗼 Living in **Bien Hoa, Viet Nam*
 
-- 👨‍💻 Currently in Internship
+- 👨‍💻 Currently in Fresher Mobile Developer
 
 - 👍 Dog, cat and Gaming 🐶 🎮
 
@@ -32,7 +35,7 @@ hi, i'm [Dat], a beginner of front-end web developer and i'll try so hard to lea
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png)"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
